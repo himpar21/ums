@@ -175,14 +175,14 @@ input[type=text], select {
     margin-top: 10px;
     position: relative;
   }
-a{
+.a{
 	color:white;
 	text-decoration: none;
   }
-a:visited{
+.a:visited{
 	color:white;
 }
-a:active{
+.a:active{
 	color:white;
 	text-decoration: none;
 }
