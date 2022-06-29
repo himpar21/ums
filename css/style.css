@@ -201,7 +201,7 @@ h1 {
 		position: relative;
 		width: 100%;
 		text-align: center;
-		margin-left: 4%;	
+		margin-left: 2.5%;	
 		font-size: 60px;
 		background: linear-gradient(#ffffff,#ffffff20);
 		-webkit-text-fill-color: transparent;
@@ -212,7 +212,7 @@ h2 {
 		width: 100%;
 		text-align: center;
 		top: -9.5%;
-		margin-left: 4%;
+		margin-left: 2.5%;
 		font-size: 60px;	
 		background: linear-gradient(#ffffff,#ffffff20);
 		-webkit-text-fill-color: transparent;
@@ -223,7 +223,7 @@ h3 {
 		width: 100%;
 		text-align: center;
 		top: -23%;
-		margin-left: 5%;
+		margin-left: 3%;
 		font-size: 60px;
 		background: linear-gradient(#ffffff,#ffffff0f);
 		-webkit-text-fill-color: transparent;
@@ -234,7 +234,7 @@ h3 {
     width: 350px;
     height: 510px;  
     padding: 50px;
-	margin-left: 10%;
+	margin-left: 9%;
 	margin-top: -45%;
     background: #000000ac;
     position: relative;
